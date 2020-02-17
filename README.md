@@ -1,4 +1,5 @@
-# Simple OLX Parser for getting electronic prices.
+# OLX Parser for electronic prices
 
-##Usage
+## Usage
+- Simply run script and provide URL to parse and excel filename to save results.
 
