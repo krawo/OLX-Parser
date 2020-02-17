@@ -1,1 +1,2 @@
-# OLX-Parser
+# Simple OLX Parser for getting electronic prices.
+
